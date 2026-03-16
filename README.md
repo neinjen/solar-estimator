@@ -1,6 +1,8 @@
 # 🔆 Solar Energy Estimator  
 ### Real-time Photovoltaic Yield Modeling for Linköping, Sweden
 
+🚀 **Live Demo:** [https://solar-estimator-xec3nwtmnb89alfw6kzbu8.streamlit.app/]
+
 ## 📌 Overview
 This project is a **Solar Energy Estimation Tool** designed specifically for **Linköping, Sweden**.
 
